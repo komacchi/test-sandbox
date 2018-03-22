@@ -2,7 +2,12 @@
   "name": "xoyykjpjnw",
   "description": null,
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "babel": "6.23.0",
+    "pug": "latest",
+    "vue": "2.5.16",
+    "webpack": "4.2.0"
+  },
   "devDependencies": {
     "rollup": "^0.47.6",
     "rollup-plugin-buble": "^0.15.0",
