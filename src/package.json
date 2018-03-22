@@ -1,0 +1,11 @@
+{
+  "name": "xoyykjpjnw",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "pug": "2.0.3",
+    "vue": "2.5.16"
+  }
+}
